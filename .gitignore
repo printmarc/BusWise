@@ -19,3 +19,7 @@ android/captures
 android/.externalNativeBuild
 android/.cxx
 android/local.properties
+
+# backend
+backend/.env
+backend/script
