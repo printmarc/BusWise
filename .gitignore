@@ -1,9 +1,7 @@
 # Android / frontend
-
 android/.externalNativeBuild/
 android/captures/
 android/*.log
-
 android/*.iml
 android/.gradle
 android/local.properties
@@ -19,7 +17,8 @@ android/captures
 android/.externalNativeBuild
 android/.cxx
 android/local.properties
+android/gradle.properties
 
 # backend
+backend/.venv
 backend/.env
-backend/script
